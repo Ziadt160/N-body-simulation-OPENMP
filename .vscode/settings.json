@@ -1,0 +1,10 @@
+{
+    "editor.quickSuggestions": {
+        "comments": false,
+        "strings": false,
+        "other": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "C_Cpp.autocomplete": "default",
+    "C_Cpp.intelliSenseEngine": "default"
+}
